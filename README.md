@@ -1,6 +1,6 @@
 # Interactive-Dashboard-using-Python
 
-This Dashboard is created using Python's Panel and hvplot and the data is obtained from bank customer data.
+This Dashboard is created using Python's Panel and hvplot and the data is obtained from <https://data.nasdaq.com/institutional-investors>
 
 To serve the dashboard locally, use the command:
 panel serve Interactive_dashboard.ipynb
